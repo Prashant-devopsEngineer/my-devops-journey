@@ -29,7 +29,7 @@ All my daily updates are in the [`daily-logs`](./daily-logs) folder.
 Example format:
 
 - [AWS](./daily-logs/MicrosoftAzure)
-- [Microsoft Azure]
+- [Microsoft Azure](./daily-logs/Microsoft-Azure)
 - [Linux]
 
 
