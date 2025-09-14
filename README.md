@@ -28,7 +28,7 @@ The goal of this repo:
 All my daily updates are in the [`daily-logs`](./daily-logs) folder.  
 Example format:
 
-- [AWS](./daily-logs/Microsoft_Azure/)
+- [AWS](./daily-logs/MicrosoftAzure)
 - [Microsoft Azure]
 - [Linux]
 
