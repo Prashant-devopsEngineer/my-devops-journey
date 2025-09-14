@@ -28,7 +28,7 @@ The goal of this repo:
 All my daily updates are in the [`daily-logs`](./daily-logs) folder.  
 Example format:
 
-- [Day 1 - Linux Basics](./daily-logs/2025-09-13.md)  
+- Microsoft Azure (./daily-logs/Microsoft Azure)  
 - [Day 2 - Networking Fundamentals](./daily-logs/2025-09-14.md)  
 - [Day 3 - Docker Introduction](./daily-logs/2025-09-15.md)  
 
