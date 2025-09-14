@@ -28,8 +28,8 @@ The goal of this repo:
 All my daily updates are in the [`daily-logs`](./daily-logs) folder.  
 Example format:
 
-- [Microsoft Azure]([Microsoft Azure](./daily-logs/azure)
-  - [Day 2 - Networking Fundamentals](./daily-logs/2025-09-14.md)  
+- [Microsoft Azure]([Microsoft Azure]([./daily-logs/azure](https://github.com/Prashant-devopsEngineer/my-devops-journey/tree/f2b6d9ea4782a53f425bb37b88d0a50ca2e42dcd/daily-logs/Microsoft%20Azure))
+- [Day 2 - Networking Fundamentals](./daily-logs/2025-09-14.md)  
 - [Day 3 - Docker Introduction](./daily-logs/2025-09-15.md)  
 
 *(I will keep updating this list as I learn more.)*  
