@@ -30,7 +30,8 @@ Example format:
 
 - [AWS](./daily-logs/aws)
 - [Microsoft Azure](./daily-logs/Microsoft-Azure)
-- [Linux](././daily-logs/linux) [LFS101 Certification Linux](./daily-logs/linux/2025-09-17.md)
+- [Linux](././daily-logs/linux)
+        - [LFS101 Certification Linux](./daily-logs/linux/2025-09-17.md)
 
 *(I will keep updating this list as I learn more.)*  
 
